@@ -39,6 +39,13 @@ We have splitted up the monitoring stack into 2 basic parts:
   - ElastAlert
   - Kibana (UI)
   
+# Metric stack
+
+The metric stack is used for raw data gathering from the services/containers. For example CPU, Memory and Network usage.
+
+
+
+  
 
   
 
